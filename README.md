@@ -1,4 +1,4 @@
-## 💻 Introduction to Python Language
+## Introduction to Python Language
 
 **Python is a high-level, interpreted programming language** used for general-purpose programming, web development, data analysis, and automation. It is known for its simple syntax, readability, and ease of learning. Python supports multiple programming paradigms, including procedural and object-oriented programming.
 
